@@ -1,24 +1,25 @@
 {
-  "name": "07-rest-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/juanros13/node-rest-server-curso.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/juanros13/node-rest-server-curso/issues"
-  },
-  "homepage": "https://github.com/juanros13/node-rest-server-curso#readme"
+    "name": "07-rest-server",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "npm server/server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/juanros13/node-rest-server-curso.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/juanros13/node-rest-server-curso/issues"
+    },
+    "homepage": "https://github.com/juanros13/node-rest-server-curso#readme"
 }
