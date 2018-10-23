@@ -19,7 +19,7 @@ let verificaToken = (req, res, next) => {
     /* res.json({
         token
     }); */
-    console.log(token);
+    //console.log(token);
 };
 // ===========================
 // Verificar token
